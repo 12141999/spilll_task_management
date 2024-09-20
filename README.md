@@ -36,8 +36,8 @@ This is a simple task management application built with Node.js, Express, and Mo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spilll-task-management.git
-   cd spilll-task-management
+   git clone https://github.com/yourusername/spilll_task_management.git
+   cd spilll_task_management
 
 2. **Install Dependencies:**
    - npm install
