@@ -49,4 +49,7 @@ This is a simple task management application built with Node.js, Express, and Mo
      
 4. **Start the Server:**
    - npm start
+
+5. **Run test cases:**
+   - npm test
   
